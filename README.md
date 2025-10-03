@@ -67,7 +67,8 @@ void main() {
 }
 ```
 # Output
-![WhatsApp Image 2025-08-29 at 09 26 32_4a598b6b](https://github.com/user-attachments/assets/05ceb738-c6bb-4c6c-8018-4aa53b2febb2)
+<img width="1920" height="1080" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/9b248916-6ad6-4732-a5a9-f3e40e0b4854" />
+
 
 
 # Result
